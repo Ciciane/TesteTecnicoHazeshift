@@ -1,8 +1,14 @@
 # TesteTecnicoHazeshift
 
 Passo a passo para rodar o projeto:
+
+
 1 Clone o repositório na pasta de sua preferencia. 
+
+
 2 Abra no Visual Studio Code a pasta TesteTecnicoHazeShit
+
+
 3 Reescreva o conteúdo de launch.json que está na pasta .vscode com o launch que estará abaixo.
 4 Aceite o add "pub get". 
 5 Feche o projeto e abra novamente.
