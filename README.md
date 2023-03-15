@@ -29,27 +29,51 @@ launch.Json
 
 {
     "version": "0.2.0",
+    
     "configurations": [
+    
         {
+        
             "name": "teste_hazeshift",
+            
             "cwd": "teste_hazeshift",
+            
             "request": "launch",
+            
             "type": "dart",
+            
             "program": "lib/HomeTasks/View/homeList.dart",
+            
         },
+        
         {
+        
             "name": "teste_hazeshift (profile mode)",
+            
             "cwd": "teste_hazeshift",
+            
             "request": "launch",
+            
             "type": "dart",
+            
             "flutterMode": "profile"
+            
         },
+        
         {
+        
             "name": "teste_hazeshift (release mode)",
+            
             "cwd": "teste_hazeshift",
+            
             "request": "launch",
+            
             "type": "dart",
+            
             "flutterMode": "release"
+            
         }
+        
     ]
+    
 }
