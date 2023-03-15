@@ -10,11 +10,20 @@ Passo a passo para rodar o projeto:
 
 
 3 Reescreva o conteúdo de launch.json que está na pasta .vscode com o launch que estará abaixo.
+
+
 4 Aceite o add "pub get". 
+
+
 5 Feche o projeto e abra novamente.
+
+
 6 Compile.
 
+
 obs: caso não apareça nenhuma opção de instalar o pub get, vá até o terminal do VsCode e digite o comando "flutter pub get".
+
+
 
 launch.Json
 
