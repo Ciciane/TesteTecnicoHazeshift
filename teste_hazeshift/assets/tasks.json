@@ -1,0 +1,15 @@
+{
+  "tasks": [
+  {
+    "taskItems": "Organizar a mesa",
+    "taskDone": false
+  },{
+    "taskItems": "Estudar Inglês",
+    "taskDone": false
+  },{
+    "taskItems": "Levar o cachorro passear",
+    "taskDone": false
+  }   
+  ]
+}
+ 
