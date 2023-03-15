@@ -28,6 +28,7 @@ obs: caso não apareça nenhuma opção de instalar o pub get, vá até o termin
 launch.Json
 
 {
+
     "version": "0.2.0",
     
     "configurations": [
